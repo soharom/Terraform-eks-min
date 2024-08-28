@@ -1,0 +1,5 @@
+access_key = ""
+secret_key = ""
+sg_name = ""
+region = "eu-north-1"
+core_network_arn = "asdfdasfdasfe"
