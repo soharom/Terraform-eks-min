@@ -1,11 +1,11 @@
 ## EKS base cluster
 This terraform scripte aims to create base EKS cluster in aws , there only one module  , in the module there is confguration of all needed resources :
  * Network 
-  * IGW
-  * NAT Gatway 
-  * Routes
-  * subnets
-  * VPC
+    * IGW
+    * NAT Gatway 
+    * Routes
+    * subnets
+    * VPC
  * Cluster
    * EKS Cluster
    * IAM role
